@@ -1,61 +1,47 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 胡奕潇 (1700011716@pku.edu.cn)  
 
-主页: https://github.com/author
 
 ---
 
-## 本讲内容
+## 胡扯
 
-### <font color="orangered">1. 第一部分</font>
+### 1.基本信息
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 2017级化院学生，女。
 
-### 2. 第二部分
+#### &nbsp; &nbsp; 超级迷茫，不知道自己是什么样子的人。
 
-### 3. 第三部分
+### 2. 兴趣爱好
+
+#### &nbsp; &nbsp; ~~吃，睡，打游戏，看舞台剧~~
+
+#### &nbsp; &nbsp; 游泳，塔罗，电影，~~学习~~
+
+### 3. 人生理想
+
+#### &nbsp; &nbsp; 变酷！
+
+#### &nbsp; &nbsp; ~~作业能拿高分~~
+---
+
+
+
+## （奇诡的）个人照片
+
+** 虽然好像没什么用也看不出我长什么样 **
+
+<img src="http://wx4.sinaimg.cn/mw690/006KokKzly1figybvzfgxj30qo0zkn3n.jpg" width=300 style="margin: 0px 80px">
 
 ---
 
-## 第一部分
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
-
----
-
-## 插图
-
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
-
----
-
-## `\(\LaTeX{}\)` in remark
-
-
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
-
----
 
 class: center, middle
 
